@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="spring-form-tutorial_main:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_form_tutorial_main_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="spring-form-tutorial_main/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="spring-form-tutorial_main" />
+        </element>
+      </element>
+      <element id="artifact" artifact-name="Gradle : com.codegym : spring-form-tutorial-1.0-SNAPSHOT.war" />
+    </root>
+  </artifact>
+</component>
